@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
-<h3 align="center">A CS student at the University of Twente</h3>
+<h3 align="center">A CS / IT Student</h3>
 
-- 🔭 I’m currently working on **Busy school projects and other stuff in the meantime**
+- 🔭 I’m currently working on **Frontend Development**
 
-- 🌱 I’m currently learning **Full-Stack development and Network Systems**
+- 🌱 I’m currently learning **Advanced Framework and Full-Stack Development**
 
 - ⚡ Fun fact **I have some experience with UI/UX design!**
 
